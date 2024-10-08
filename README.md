@@ -1,7 +1,7 @@
 # JKFLIPFLOP-USING-IF-ELSE
 ~~~
-Developed by:Kavinraja D
-RegisterNumber:212222240047
+Developed by:ANTHONY RAJ
+RegisterNumber:212223230017
 ~~~
 **AIM:** 
 
